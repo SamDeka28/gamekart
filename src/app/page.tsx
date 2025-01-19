@@ -326,7 +326,7 @@ export default function Home() {
       </div>
       {/**Contact */}
       <div className="mt-[84px] md:mt-[200px] flex flex-col justify-center items-center gap-[34px]  md:translate-y-[-30%] self-center">
-        <div className="relative md:w-[50%] bg-[#292945] rounded-lg flex justify-center py-[26px] px-8 md:px-[96px] flex-col items-center">
+        <div className="relative md:w-[60%] bg-[#292945] rounded-lg flex justify-center py-[26px] px-8 md:px-[96px] flex-col items-center">
           <img src="/assets/lowinglight.png" className="z-0 absolute top-0 left-0 -translate-x-[50%] -translate-y-[50%] object-contain" />
           <img src="/assets/lowinglight.png" className="z-0 absolute -top-16 right-0 translate-x-[50%] rotate-180 object-contain" />
           <img src="/assets/lowinglight.png" className="z-0 absolute -bottom-0 left-0 -translate-x-[35%] translate-y-[50%] object-contain" />
