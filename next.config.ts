@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     domains: ['media.geeksforgeeks.org'],
   },
+   output:"export"
 };
 
 export default nextConfig;
